@@ -9,3 +9,4 @@ the Pathways Intern Program. These programs offer three components: Summer Inter
 nent), and Apprentice Interns (Permanent). The intern programs are available to all levels of students: high school, vocational, technical, 
 associate, baccalaureate, graduate, and doctorate.
 
+Change content. 
